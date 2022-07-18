@@ -1,0 +1,9 @@
+[
+    {"name":"Ramesh", "edu":"MCA", "age":"30 years", "mobile":888888888, "pic":"1.jpg"},
+    {"name":"Ganesh", "edu":"CA", "age":"40 years", "mobile":767676767, "pic":"2.jpg"},
+    {"name":"Mohit", "edu":"MA", "age":"50 years", "mobile":565656565, "pic":"3.jpg"},
+    {"name":"Ravi", "edu":"BA", "age":"20 years", "mobile":898989898, "pic":"4.jpg"},
+    {"name":"Krish", "edu":"BCA", "age":"31 years", "mobile":787878787, "pic":"5.jpg"},
+    {"name":"Ramu", "edu":"IA", "age":"40 years", "mobile":4545454545, "pic":"6.jpg"},
+    {"name":"Sidhu", "edu":"CA", "age":"10 years", "mobile":8989898989, "pic":"3.jpg"}
+]

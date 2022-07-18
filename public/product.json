@@ -1,0 +1,9 @@
+[
+    {"name":"Apple", "price":200},
+    {"name":"Mobile", "price":2000},
+    {"name":"Laptop", "price":30000},
+    {"name":"Clothes", "price":500},
+    {"name":"Food", "price":100},
+    {"name":"Bike", "price":50000},
+    {"name":"Book", "price":600}
+]
